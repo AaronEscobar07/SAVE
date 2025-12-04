@@ -10,10 +10,10 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "cl.exe",
             "cStandard": "c17",
-            "cppStandard": "c++20",
-            "intelliSenseMode": "windows-msvc-x64"
+            "cppStandard": "C++20",
+            "intelliSenseMode": "windows-msyc-x64",
+            "compilerPath": "C:/msys64(1)/ucrt64/bin/gcc.exe"
         }
     ],
     "version": 4
